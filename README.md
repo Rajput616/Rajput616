@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajput616
 - 👀 I’m interested in Andorid Development and Problem Solving
-- 🌱 I’m currently learning Android Development from JAVA
+- 🌱 I’m currently learning Android Development from Kotlin
 - 📫 How to reach me - You can mail me at Saurabhrajput616@gmail.com
 
 <!---
